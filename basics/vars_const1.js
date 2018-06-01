@@ -1,12 +1,11 @@
 const user = {
-  name: 'Edi',
+  firstName: 'Edi',
   age: 12
 };
 
 
 user.age = 23;
 user.surname = 'surname';
-
 
 console.log(user);
 
