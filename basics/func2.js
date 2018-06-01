@@ -3,7 +3,6 @@ function dummyFunc() {
   return 'stupid result';
 }
 
-
 function callLoger(func = dummyFunc) {
   console.log(`Calling: ${func.name}`);
 

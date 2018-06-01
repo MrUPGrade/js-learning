@@ -4,4 +4,4 @@ function hello(name = 'Anonymous') {
 
 hello();
 hello('John');
-hello(name='Smith');
+hello();
